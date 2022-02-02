@@ -1,0 +1,501 @@
+uuid,offset,description
+9e085556-7c76-432e-809d-fdc8c8729834,-11:00,"Midway Island, Samoa"
+a5c94f90-24c9-43e5-a93e-14845d3df781,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+0acf2549-888f-405b-a72c-0bd4a87217fa,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+ee58b1e7-18a2-48de-9ed9-c9ddfec803f7,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+46644a74-237d-4462-889f-84d563c854cb,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+36047c5f-cd38-413d-889c-62299fd8ce6c,-10:00,Hawaii
+8471593c-be32-440a-b1b9-c05d44f43523,-11:00,"Midway Island, Samoa"
+0ca1c342-e2ce-49c8-83e7-b889d1d406c4,-12:00,"Eniwetok, Kwajalein"
+b735a002-86b7-471b-bbc3-dce0b0271d0f,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+9183c96b-38ee-43de-8187-8d10cf7c3194,+5:45,Kathmandu
+e6670677-94be-49be-9815-00302e2a0298,-10:00,Hawaii
+e11f68e4-ef5e-463f-a0ae-f1c5961d3aaf,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+9a57f64c-8b44-4e01-b9e2-2913a390aa29,-7:00,Mountain Time (US & Canada)
+06601044-7c21-475e-8440-3bdf2626d1b9,-3:30,Newfoundland
+10d554fd-6471-4820-9fba-2bac9140e601,-1:00,"Azores, Cape Verde Islands"
+d542a185-3fa3-4496-b669-777f17a98f4e,+11:00,"Magadan, Solomon Islands, New Caledonia"
+71efcb95-4861-4fd2-b4d0-0105666ea791,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+ee64829d-c970-4a86-a8cd-a825553cce81,+3:30,Tehran
+001e2961-92ae-4964-8711-5d7c69843a2e,+2:00,"Kaliningrad, South Africa"
+1fb402a3-1d27-4abf-bbc7-ae65f8f4bfba,-1:00,"Azores, Cape Verde Islands"
+8925226e-fb8f-426b-a909-bb74d51a1fb6,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+0562150f-ae02-4a3f-b8f2-6caab232fcba,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+d1814671-8544-482d-8ced-2b17d902eddc,-1:00,"Azores, Cape Verde Islands"
+805aff76-b989-46f5-a852-3b14ad7ed42d,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+dcb852d3-ec00-4bf3-8ae0-48b190dabd55,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+d6355ff1-a2e7-4d96-9b83-4dde91b43460,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+e25f1b47-685f-4bcf-bc4b-f38e1a84de5d,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+cba73507-dbec-41ef-9f26-a223ccedfa84,+9:30,"Adelaide, Darwin"
+4a40c364-c85a-4e72-a9ae-f8281ead317a,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+059ea816-ad2f-4f40-b57e-ff35d0114df6,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+46b8781c-358d-460c-8197-41f6ee6261c8,+4:30,Kabul
+34404066-f915-4c48-a475-4dbaa198b2dc,+3:30,Tehran
+23952a7d-1922-447e-a0cb-111e7126b9d0,-7:00,Mountain Time (US & Canada)
+8a3ec85a-a491-42d8-bf88-64cb61556f58,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+358e51b4-9589-4831-923a-ea3d03194315,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+c8eee2ca-6f73-40b9-8a77-8795ceae489a,-3:30,Newfoundland
+60f89401-28f6-46b3-999b-7d542fe4ea51,+5:45,Kathmandu
+90c5cf27-f0f1-4b9e-be80-441743fd812a,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+ddc5293c-fc59-4d27-89f3-ba1e8bc3b7fb,+9:30,"Adelaide, Darwin"
+7acc5fa7-2590-442a-8628-0bc066ac2d53,-9:00,Alaska
+96057625-4fce-4e87-9874-10c2be33648e,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+e51262ab-c924-480f-9573-dddcc972089b,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+c5c6a0b6-9e7f-4a70-ad9c-15780d1844c1,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+827df88e-7649-45a2-af4a-17e41830bda3,+7:00,"Bangkok, Hanoi, Jakarta"
+129dab64-9878-44b2-8f12-1ca8aac3edfe,+6:00,"Almaty, Dhaka, Colombo"
+5d66c19d-6346-4d93-9eda-a2c928cfec1f,+4:30,Kabul
+842ed121-fcc0-4c1f-b91b-7f48832942e5,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+e381919f-11f6-4ae2-b043-5b622757c1d4,-7:00,Mountain Time (US & Canada)
+79de1aed-a74c-41f3-81b1-ab80a53188f6,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+3277df06-4d50-4d32-83f5-45c0aa526e6c,-2:00,Mid-Atlantic
+6596e7a5-a94e-4b6b-9650-c3d7d730de4e,-8:00,Pacific Time (US & Canada)
+10d03242-f110-48bd-a989-197e9563c6d7,+5:45,Kathmandu
+830233e2-4af5-4fdb-9ef8-fbe25ae8ba96,+2:00,"Kaliningrad, South Africa"
+92bf512d-ff06-4405-a5c2-3de5f89cb1a0,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+d10ab5bc-e178-46bf-9d76-6e24e0141232,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+e46ca226-aa89-4790-a196-75f1783d1ab0,-10:00,Hawaii
+844336f1-659d-4067-a474-26b44c6cca38,-3:30,Newfoundland
+e5bbedb9-2c29-4b03-a4a1-d16babc7e1c9,-2:00,Mid-Atlantic
+dfedf468-9561-421b-9ff1-ff73b3f11840,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+c640653a-9168-4640-af3a-63cdcb822aa0,+10:00,"Eastern Australia, Guam, Vladivostok"
+85e6dff2-b6ee-49d7-9c8a-a22ff10da522,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+2a035a67-7830-4209-b589-ee184cd8dbf3,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+bf2ae67d-e052-42a0-8239-2bb45b8e0484,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+ed20bc3b-df2b-4ca7-be7c-6562fffacd09,+9:30,"Adelaide, Darwin"
+8babfa24-9425-4e38-91b7-312eb2473813,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+73847547-975c-4e6b-b93d-ab6288e1cbb4,-3:00,"Brazil, Buenos Aires, Georgetown"
+0a52540e-b2c7-4585-ab51-f7e2a638eda7,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+f1a3005c-57a0-4d89-b21c-f85a8c5f8a13,-9:00,Alaska
+c36ebe09-7b06-4276-a8a2-70ed2f205782,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+525362fa-59c1-4526-836e-dc13da7514eb,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+1feb4c64-c40f-410c-8967-71ea43b4e4ed,+7:00,"Bangkok, Hanoi, Jakarta"
+2f3a8744-bbf3-44d6-8492-d514ff144135,+2:00,"Kaliningrad, South Africa"
+b7216842-0aed-4d18-b121-2b3e0244ee36,-7:00,Mountain Time (US & Canada)
+bd0f530f-de54-4d28-b0f4-a1eaa06033e0,+6:00,"Almaty, Dhaka, Colombo"
+101bc65f-0a0d-4bce-9f2a-e16786c0aa33,+2:00,"Kaliningrad, South Africa"
+dea001e4-e0d3-4560-a843-8530ca699287,-3:30,Newfoundland
+d27be96a-a39c-47c2-8df7-64866d9d84b3,+6:00,"Almaty, Dhaka, Colombo"
+7eddfeca-e2c4-40bc-b879-e0ca278aa8a3,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+3a11e54d-4dfe-4ded-a02f-439ad875959d,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+76d46e45-d976-44f3-a56a-872fcdbc8350,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+6501f1a7-42a3-4fab-9da1-7e26d680439b,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+e28052e9-4b41-4695-8f8b-fa7216baf83c,-6:00,"Central Time (US & Canada), Mexico City"
+8c0346e7-e3f4-4846-b6db-2781fc95d860,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+5b2babc9-db53-4a51-ba56-3babda23381b,-3:30,Newfoundland
+336cada3-e614-4435-8926-cc9de62603eb,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+9cd5c1d0-12fc-4535-8cd1-ff8363adbf35,+6:00,"Almaty, Dhaka, Colombo"
+48e67a6a-146f-44a4-acc6-c07bb606bec1,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+2797ae5f-0127-4343-a17f-71cfaa1b3902,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+b4e03627-4593-4031-a0bc-acf5c98f6faf,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+67215949-20c4-4157-9e63-952087684b3a,+5:45,Kathmandu
+6a4743cc-2bdf-4b9b-8fca-c7825357b2ff,+7:00,"Bangkok, Hanoi, Jakarta"
+2dabb8b8-46e6-45d5-83ce-4ebe293e88f5,-9:00,Alaska
+db9bed33-7cef-4279-a922-d068f4e244fd,-9:00,Alaska
+1b616414-3f88-42e1-b5ba-456d88975d58,-11:00,"Midway Island, Samoa"
+4779e643-6d6b-47fd-a086-c6b771c0807e,+6:00,"Almaty, Dhaka, Colombo"
+82e77d9f-135d-422a-b14f-8df20d32c07b,+10:00,"Eastern Australia, Guam, Vladivostok"
+c18872c8-b8f1-4e35-97b5-42395aaf586a,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+886d7830-49a9-49b9-a7a8-3bba20452d3b,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+e749bace-8f1b-4438-820d-90413c6baa57,+9:30,"Adelaide, Darwin"
+38556283-bf03-4f0d-9a92-a2524e760576,-9:00,Alaska
+9a80ffc2-f9a7-4d5c-bc13-7810ac820339,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+b3840ba5-bd38-4557-a115-67f6bcc4e528,+4:30,Kabul
+0bf6de11-92dd-49bd-87cd-c116f959e0e2,-3:30,Newfoundland
+d1fd7baf-e311-47b1-b8c2-1968970d2ec9,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+89b67001-4332-40f2-a6d6-d1636cd3fa86,+6:00,"Almaty, Dhaka, Colombo"
+2e485f5b-8d14-4a55-ad4f-593375b63c9e,+6:00,"Almaty, Dhaka, Colombo"
+5c2083f2-ddcf-46ad-81c5-9b4b57d862f9,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+fc3093f3-c713-4791-9cd7-81a4b8d0d422,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+8104f221-6a1b-445b-a465-80ee74c91e40,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+b5b61b62-c98e-4bbb-8ba9-ce220377dc45,-9:00,Alaska
+2c2761fa-4c4d-494a-ae48-35b06df4fb65,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+b712b7ab-f7d0-433d-ba99-6cf1d6a080d9,-9:00,Alaska
+fee1d5dc-435a-40fc-bc65-09be0e5e85b5,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+b3b63655-9a36-4f8c-bfd6-6ee5da98bfe8,-7:00,Mountain Time (US & Canada)
+6a496a4f-ad49-4ddf-b29c-6ec580bfc334,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+7f0c8385-c182-427e-82eb-170b6937c682,-12:00,"Eniwetok, Kwajalein"
+39516bf3-a75c-43e5-b97a-c30bd633282e,+7:00,"Bangkok, Hanoi, Jakarta"
+257dacaf-72d7-4c46-93f5-180bdddb66f7,-10:00,Hawaii
+e89402b9-ba34-43fa-a083-f4bf5f210051,-10:00,Hawaii
+9bcd8dde-81f4-49b2-8100-70475f163d39,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+dc67dddd-b9d0-49c8-9835-aff4dc7a2afc,+4:30,Kabul
+dc2740b0-dc05-4101-a025-559386597b86,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+9564a1aa-8d92-4a13-9bb4-378589cc5350,+6:00,"Almaty, Dhaka, Colombo"
+7e729d74-b0ea-4b3c-894e-9bfa7081b82d,-7:00,Mountain Time (US & Canada)
+9dd711c2-b154-4a2f-97d7-9c6f5e032356,+6:00,"Almaty, Dhaka, Colombo"
+de89817b-238c-4998-843f-faa9c8ea65bf,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+c0613200-51b5-4468-b656-0f6813a564bf,+4:30,Kabul
+e2a1c94c-361b-41e7-a66b-229984f1e4b5,-2:00,Mid-Atlantic
+818eafde-23da-49a5-959b-70fc56f06090,-6:00,"Central Time (US & Canada), Mexico City"
+cbde87e2-f1d9-47f0-b697-1ddc74a0ca57,+4:30,Kabul
+8b637fdd-a29f-483e-b75b-b95914faa508,+5:45,Kathmandu
+e96b8370-8ba0-444e-af06-322b77a21f67,-9:00,Alaska
+ad5baca3-80cc-4a34-ba74-a6e3d37d96b6,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+0c9e4685-69d1-4696-bfa7-d618f8af858d,-12:00,"Eniwetok, Kwajalein"
+590b9263-d270-40fd-90ac-f72e1872027f,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+ae3c72d3-a623-4527-a39e-4c5d7e98abb6,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+7fe13d5c-4289-4cbf-8f75-a4a45647cb0e,+7:00,"Bangkok, Hanoi, Jakarta"
+0eebeccc-bba8-462a-8317-79b2eba79426,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+a05c7866-e158-4f28-bbf4-8bfe4488f9f9,+10:00,"Eastern Australia, Guam, Vladivostok"
+b8a20193-4dca-4ddb-b9ee-0a354865987a,-6:00,"Central Time (US & Canada), Mexico City"
+b978314f-a57c-4e81-9d8e-e4b713182efd,-9:00,Alaska
+11bd60a3-1618-44e0-afa3-2f8dcfc40f42,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+eabd79e0-8ec9-4e38-97ed-30b79bb035b7,+2:00,"Kaliningrad, South Africa"
+b00fda18-d4c5-4d1a-8c72-33f3e06c7568,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+a082ebba-de5e-47e7-b742-3dd938ba32fe,-3:30,Newfoundland
+8ae7da45-b69c-489e-b669-69696ce8195c,-1:00,"Azores, Cape Verde Islands"
+38069a23-9761-4110-9701-b1e0ca3be2e0,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+746f2108-8aa4-47ec-b35f-e330dd9a0766,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+968e98cc-c4b1-4a1b-92c8-a4f7d7ef5634,-3:00,"Brazil, Buenos Aires, Georgetown"
+563417dc-62b1-4c9b-91f7-d3f873371501,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+66684097-2971-4d9b-9ce9-4b6f46721e25,-1:00,"Azores, Cape Verde Islands"
+5568a998-4613-4324-a6b1-f971b5ed552a,+9:30,"Adelaide, Darwin"
+69dc6a88-4420-4efa-8a5f-3580154eb841,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+84749fe7-e923-48cc-ae45-d3f6c84a85ca,+6:00,"Almaty, Dhaka, Colombo"
+612d9f51-ef83-4c49-88b3-365251313e56,-7:00,Mountain Time (US & Canada)
+ef0ab47a-ab41-49e6-91e8-20ed22fcfc76,-6:00,"Central Time (US & Canada), Mexico City"
+9151c78d-8ef7-4269-83a7-d9ddf1c3c1f3,-12:00,"Eniwetok, Kwajalein"
+9ec0988c-d582-419f-98ec-bf33caf58260,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+d198e7f3-3799-4136-9105-d9a9970f401c,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+c93826ba-aba2-4e81-bb36-4a94a2b71667,+3:30,Tehran
+604809f1-ef26-4e31-97de-fadde07c913a,-9:00,Alaska
+13d8b69e-31c2-4b93-8e19-80c120bff3d0,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+85dfc953-4d11-4afc-9112-f0319d88a7ff,+3:30,Tehran
+70a45fc0-b4e5-430a-ac95-171a2720b7d6,-10:00,Hawaii
+5a6db675-3a4b-4efd-83c0-360e6015cfbc,+9:30,"Adelaide, Darwin"
+2ab8d917-67e5-44f5-8f98-c2ed1e3337e8,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+0b78303f-020d-4751-866d-cbcf53d55a1c,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+80880723-9228-4d54-8c8e-b6d4ac91a042,+5:45,Kathmandu
+af86f783-2746-4964-8221-addceffb8c37,-3:00,"Brazil, Buenos Aires, Georgetown"
+b4e39ecf-3467-40d1-8a4a-197bcd410275,-10:00,Hawaii
+7a17aa1d-474d-4a5d-9cc2-18276aa6a530,-12:00,"Eniwetok, Kwajalein"
+dbb3337c-f280-4422-88f2-b322faac2d44,-3:30,Newfoundland
+4804de27-37ff-4ca5-9536-afc46ebe6860,-3:00,"Brazil, Buenos Aires, Georgetown"
+867b98b6-6983-4916-8724-fcd2dd3618b0,+10:00,"Eastern Australia, Guam, Vladivostok"
+893a284d-b97c-4599-994e-7177db6b7e59,-11:00,"Midway Island, Samoa"
+3d7b84cc-295a-4087-8820-19afdf4444f0,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+d8998cd6-1181-4a32-b02b-3a8dfec79d61,-8:00,Pacific Time (US & Canada)
+71318eea-9313-4979-a13a-556856de1e90,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+0bba56be-e041-4a5c-9efe-6fc3ee982f1a,+10:00,"Eastern Australia, Guam, Vladivostok"
+080fb055-ec96-4e65-ad42-9a3bde850eb0,+9:30,"Adelaide, Darwin"
+c3656279-9b96-42ad-8cef-bfdef5c4b17e,+10:00,"Eastern Australia, Guam, Vladivostok"
+01193f2b-7ca9-4ae1-8188-569636841032,+5:45,Kathmandu
+754a0231-aea0-49b3-81f1-c3a3d3ef7133,-2:00,Mid-Atlantic
+976ffe33-f9dc-42c2-9230-0f600d42742d,-9:00,Alaska
+4be102c4-62de-406d-8d21-9ca3d0305092,+7:00,"Bangkok, Hanoi, Jakarta"
+4f703e3a-b4b4-40d4-9826-e27c3cac200d,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+0a274b3c-e81b-4cda-bb30-aeb292edb49b,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+1dc7b355-1a2c-4646-8717-56680b6499b6,+2:00,"Kaliningrad, South Africa"
+97be722c-c09f-46ae-923c-a8dbc3815e6e,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+00459906-e9fc-4b4c-8500-05c0c9b55b10,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+bb604ee7-b013-4123-8805-aa8531a85de4,-3:00,"Brazil, Buenos Aires, Georgetown"
+6108d6db-5992-4792-ba13-9ad37e59e914,+9:30,"Adelaide, Darwin"
+19335fa5-5047-41a4-b001-c6625e9e89f3,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+dd6a8b06-4576-4c9a-9d29-e12c2e048ab1,+6:00,"Almaty, Dhaka, Colombo"
+af572850-7472-411b-bf07-a23b8aa93d88,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+250ef933-9a22-431b-b54f-206ee428b1fb,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+715085ab-b8f1-4a3e-9ad5-e5a40b34dd32,+5:45,Kathmandu
+466d59e4-634e-4d4b-8dd2-00c95b023502,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+b4a2d54b-7c6f-489d-a047-4cab41a3fe24,-12:00,"Eniwetok, Kwajalein"
+f8ddef39-370b-426e-92dd-7dca77beee83,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+02425744-6826-4193-acfb-698ef5ed9d47,+9:30,"Adelaide, Darwin"
+f55d99da-70e2-4b76-8b04-c9f80dff6b52,-3:30,Newfoundland
+143622b9-0099-4733-9b74-ad4977f4fa4e,+3:30,Tehran
+456778fd-b415-489d-bc6d-bf0ab6084b60,+10:00,"Eastern Australia, Guam, Vladivostok"
+910d4cc7-c6c3-43f4-9955-04ac4a31676a,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+cc8be84e-22ba-44ee-9cbd-d2cd69a1a70d,+5:45,Kathmandu
+74a78250-3e7a-4f4c-81b0-271ad3aad894,+4:30,Kabul
+cdddf15a-7f85-483d-869f-58d5320b010c,-7:00,Mountain Time (US & Canada)
+d97ee124-cdc6-4cb7-85dc-d156b3e0575d,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+11f41730-cd95-4eac-bc97-430fd2d7fedf,+9:30,"Adelaide, Darwin"
+6d166408-56fe-47be-8342-b1c808a11f5b,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+800b1f71-201a-4ee9-830c-2f0a3eb713f4,-11:00,"Midway Island, Samoa"
+1c9ad0e8-9b19-4617-bdaf-1c33633a8e1b,-6:00,"Central Time (US & Canada), Mexico City"
+b267888f-0d78-46cf-be95-78ef2edf7367,-6:00,"Central Time (US & Canada), Mexico City"
+5e668866-6e80-4879-b134-9b5fcc5c26c5,+7:00,"Bangkok, Hanoi, Jakarta"
+2cc74b83-8504-44ad-84f1-5eed8bee9b56,+4:30,Kabul
+fe9bcd38-dc79-4e2d-9c96-137efbf4e88e,-12:00,"Eniwetok, Kwajalein"
+28f3e427-1c2e-4d75-8ced-6a4c9bc7c9c5,+5:45,Kathmandu
+a683b691-9eb2-47ce-ad55-4af7acd90500,+6:00,"Almaty, Dhaka, Colombo"
+4960b663-acf9-4190-b138-f8490d04c115,+11:00,"Magadan, Solomon Islands, New Caledonia"
+c8d6624f-5e57-43ba-8285-d46fd09af20d,+3:30,Tehran
+9aa64cc4-1ed8-496f-bf0d-1a9be07a14fb,+4:30,Kabul
+cca00ff2-ca12-4e36-91d3-3c9e01796929,+6:00,"Almaty, Dhaka, Colombo"
+223052c1-b1e1-46b2-879f-0831ec77daec,+2:00,"Kaliningrad, South Africa"
+e22a02e8-9e77-4afc-823f-8c9132264eea,+5:45,Kathmandu
+08af77ca-a0dd-471b-9446-7ce30fcb912e,+11:00,"Magadan, Solomon Islands, New Caledonia"
+6c783015-b254-4b3b-9646-a13ca2646051,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+7d8f7d73-88c5-457b-8404-7fb7b3ac38e5,-3:00,"Brazil, Buenos Aires, Georgetown"
+43c5171d-1453-482a-a0d2-4b3da2b668d5,-10:00,Hawaii
+8959ac8d-2f49-4a35-99ff-43fa41b6ccd6,-6:00,"Central Time (US & Canada), Mexico City"
+4ae49f49-d84d-49d3-ab4d-cd04deaf1b8f,-11:00,"Midway Island, Samoa"
+d4023207-c09e-4336-9bf4-7afd0592f70e,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+d04cff16-4146-4d8a-af5c-ab97b6262892,-2:00,Mid-Atlantic
+b636bbea-11e9-467e-949a-46151bf46c48,-7:00,Mountain Time (US & Canada)
+f75458ea-faf7-4a6d-84e5-be4759a30c97,-7:00,Mountain Time (US & Canada)
+0752d637-2913-47ac-b87b-9779dd359c4f,+3:30,Tehran
+ae75478d-93eb-4786-9013-2add43df00bc,+6:00,"Almaty, Dhaka, Colombo"
+ce0a251a-2912-46af-9e5e-0e3b00f79ebf,-6:00,"Central Time (US & Canada), Mexico City"
+def2fd0c-a2d8-4faa-a63c-0dd7a22475b6,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+20918506-7fe4-403d-907f-f81248a48417,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+e9c4bf80-cced-4112-9d2c-0f87e28c2a0f,+4:30,Kabul
+c2a05189-ea94-4687-9025-a47cc0cc68ea,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+b472fd56-ee8a-4177-b57c-e9f96f3d94e0,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+7045cb63-c4b9-44e5-a3a6-0f9fa71d40df,-12:00,"Eniwetok, Kwajalein"
+e046dd42-df3a-4afc-a90f-8046a829d52b,+10:00,"Eastern Australia, Guam, Vladivostok"
+58a878a5-302e-48d2-b3bc-ffb0b580d7db,-11:00,"Midway Island, Samoa"
+a48435b9-7686-49ce-afca-4f56babe4ba8,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+21c4398b-c7b0-4478-8670-32f100eea505,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+03bd3c4b-0003-41d5-820a-161a113cf90d,-7:00,Mountain Time (US & Canada)
+26e6981b-f2c5-4d9c-9c05-47942556ba5b,-8:00,Pacific Time (US & Canada)
+8a76dd15-5dca-497d-855e-362b79fc6a6b,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+385969d5-b7f7-4428-beb5-114803ad9566,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+381ca45a-40e5-42b6-a06c-9a95257d8cf2,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+e6f2e24d-7808-464d-9b9f-95e35f5b0e11,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+9b1b308a-1fab-4e53-8192-ae4344c59541,-12:00,"Eniwetok, Kwajalein"
+d3f94264-72e6-43c8-874f-27ea97c92493,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+08de9851-157d-473e-b997-61cb129b6866,-3:00,"Brazil, Buenos Aires, Georgetown"
+aac7437f-d462-43f1-9bc2-e4eac8cb41fe,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+3ea10d35-f305-4986-8f11-993c8b2f4e73,+10:00,"Eastern Australia, Guam, Vladivostok"
+ecc010f7-5b9c-447d-9cfd-4c6eb370fa75,-1:00,"Azores, Cape Verde Islands"
+a1c00b15-a1b9-4946-b79c-866125332a9f,-7:00,Mountain Time (US & Canada)
+d2c28a97-867f-43e7-86dc-357da2d39d62,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+ae2a9567-8066-49fc-90a0-316920c20169,-2:00,Mid-Atlantic
+7e0a03e8-df18-49aa-b10e-c1f2fe122266,+6:00,"Almaty, Dhaka, Colombo"
+718f6519-368d-4cc4-898e-d0420c453a4f,-9:00,Alaska
+1ab8086c-24cb-43e4-86ef-2839997c37c8,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+5e297910-f92c-48bb-9eb5-fb6fb4e29fc6,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+211408cc-20e5-4035-9b1e-3a76f2fd0348,-9:00,Alaska
+1f8155c7-b073-404d-8d74-4cd480b6e3f4,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+15dcf4c4-69bb-42ce-a7ae-2e2781241678,+10:00,"Eastern Australia, Guam, Vladivostok"
+ae51d13c-7184-42fe-97eb-ed3c2e26db14,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+499fc44c-fcfa-4e7d-b12e-828d11ae0742,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+88657ebc-7532-46fd-893e-d79d8b197643,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+04a1ccec-83c0-4c28-b76a-2c07d2f63827,-9:00,Alaska
+e27e829d-23d4-4e46-9df6-626b183c473d,-3:00,"Brazil, Buenos Aires, Georgetown"
+1c3c22d7-d413-4833-8b78-4d97c231b1e8,-6:00,"Central Time (US & Canada), Mexico City"
+2b9e88cd-55e9-4ef4-852c-8d4d30d37a67,-3:30,Newfoundland
+8009be0e-b37f-48c5-bb1a-9a6f026494d4,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+0c1112c0-f696-474d-857e-7e8c1dc8e9ce,-10:00,Hawaii
+6b0bd4d5-7294-48d7-84da-454c5220332f,-10:00,Hawaii
+22eda906-3bc8-494f-94dc-3bfbd8b544b0,-6:00,"Central Time (US & Canada), Mexico City"
+9ea15827-6a5f-462b-b0c6-af5e0459285a,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+83413f54-6b2d-4c5f-ac1c-0bd3087417c3,-3:30,Newfoundland
+bd1c7f6a-9590-4cbb-86f8-f13aaf8b1d74,+5:45,Kathmandu
+5f3bb7eb-6e6a-4ce1-94bd-a8d1b604cc5e,+9:30,"Adelaide, Darwin"
+44103ee1-409c-41cf-99bc-58cb529902ae,+6:00,"Almaty, Dhaka, Colombo"
+02339ce2-6000-4409-bfe7-26417bdf8477,-10:00,Hawaii
+6bab6221-be36-4f17-9aa5-a9eb06781a40,+7:00,"Bangkok, Hanoi, Jakarta"
+eeee58e6-fae3-49e3-b3df-629644a40c19,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+82482e9d-c3a5-4b2a-8fa7-4ae8b824f648,-3:00,"Brazil, Buenos Aires, Georgetown"
+d3570fce-a6e8-46d4-94ca-791170a925f0,-7:00,Mountain Time (US & Canada)
+86461bdd-1c8f-4a3b-8794-e882fffa42c5,+4:30,Kabul
+6f843b30-7270-4a25-8921-a8bca6620907,-3:00,"Brazil, Buenos Aires, Georgetown"
+0f25252b-7b80-472d-b629-9b292ba69c52,-3:30,Newfoundland
+203b0115-1bcb-4e93-a411-3d0dffed544f,-10:00,Hawaii
+950f5a77-8628-4ff0-9ace-fc90731e1f44,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+ff8716a7-a39b-46da-bc58-8b56fe216e24,+5:45,Kathmandu
+7ecdda80-a81a-4b0f-8a04-185735d23af8,-6:00,"Central Time (US & Canada), Mexico City"
+3cd5001f-eaee-497d-9c3b-f15e6cacf684,-12:00,"Eniwetok, Kwajalein"
+b2fbe42b-b34b-442b-ac91-b89c761f587f,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+e4cb5aa4-d555-4688-91ed-83444f632ff7,+3:30,Tehran
+34f302f2-047c-4a3b-b546-545f3aa56386,+9:30,"Adelaide, Darwin"
+bf6c6836-3a46-4d36-ae42-e4ceb63ed294,+6:00,"Almaty, Dhaka, Colombo"
+8e7bb500-c239-4f79-9826-e041f4ea0b60,-2:00,Mid-Atlantic
+c3141342-7ebc-45f5-8050-1b4aeaed140e,-10:00,Hawaii
+d2083ddf-0278-4ed7-a13e-04bd3a069aea,+6:00,"Almaty, Dhaka, Colombo"
+4d136fbf-4da1-479e-a89a-565a5dcd12f2,+5:45,Kathmandu
+59ff5b94-d180-4601-b900-0c7c77067123,-7:00,Mountain Time (US & Canada)
+7827c1c6-ddd4-4782-8923-9dcbe4d89489,-6:00,"Central Time (US & Canada), Mexico City"
+011b9aff-a064-4e1c-b013-b71238b03a98,-9:00,Alaska
+3bf6724f-e1c0-4ec0-826a-6e7239c62dee,+3:30,Tehran
+11414ac5-2950-4210-8050-5c98943b47cb,-7:00,Mountain Time (US & Canada)
+6b89eb7d-54c3-4bd1-8dd0-cffc8252d5f2,-11:00,"Midway Island, Samoa"
+0954b9ac-fc1c-4ec0-b30b-f0d52cdd7b79,+9:30,"Adelaide, Darwin"
+7fa661da-ef0f-41d2-b9dd-5bac6df9be86,+3:30,Tehran
+613d6d7c-bdce-439b-9ab2-f01d32b602f1,-7:00,Mountain Time (US & Canada)
+c62cbf0c-9d40-43be-acbd-bb45e67e3b4d,-8:00,Pacific Time (US & Canada)
+fc25c4e5-6041-4674-bde9-d3be5a32458e,-12:00,"Eniwetok, Kwajalein"
+42bfcc93-9bd7-46f3-b229-2909c54d6f63,-11:00,"Midway Island, Samoa"
+95d39a31-f18c-4d6c-b920-56e1a8f37396,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+719817e0-82c5-4d47-918d-73ded5ad5e8e,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+abd41b8c-eb62-47db-bc6d-50f7d2eff4ad,-1:00,"Azores, Cape Verde Islands"
+f3a8423a-c1b6-47b4-9e04-a0cdf0733a52,+4:30,Kabul
+dd723e7c-276e-4e60-ab1b-5338ca0f7e28,-3:00,"Brazil, Buenos Aires, Georgetown"
+b3113f35-e1f1-479e-bf0e-b44fa0d00361,+5:45,Kathmandu
+e9594260-1392-434a-afb6-2cc731e51f7b,-6:00,"Central Time (US & Canada), Mexico City"
+fb1acb5d-6108-4dc0-a226-18f6f436d27d,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+506bfe29-b6b6-474b-8251-6005e3c26cfd,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+5f0c9213-bd08-4bd2-9fe2-7b2884198e9b,+5:45,Kathmandu
+6259c6d2-4cfa-4340-a246-c0b55d10d04d,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+d92731b3-c746-4f79-aefa-d8405dfac930,-9:00,Alaska
+e1603e03-f29b-4bb4-9919-2cbf98807ac2,-3:00,"Brazil, Buenos Aires, Georgetown"
+61ebca0b-6036-4da2-ae6c-1def35e73b69,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+84e630de-d2f9-435c-abf0-cc7cc3b81468,-7:00,Mountain Time (US & Canada)
+1caa9dad-8bfa-4947-81a0-abf37f51c5fa,-3:00,"Brazil, Buenos Aires, Georgetown"
+749b3383-c824-447c-a8e4-b948f980c66d,-6:00,"Central Time (US & Canada), Mexico City"
+ecec2c00-32e6-4096-a144-efb67195b43f,-10:00,Hawaii
+2480a7d0-6dc8-43c1-b142-12741c4e7f97,+6:00,"Almaty, Dhaka, Colombo"
+0a036baa-4e6d-4a1d-b77d-bec9accecf79,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+23c41951-1fb5-4359-b6af-f78dc0bb79f0,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+ea0c452d-c659-494e-969a-938799f9d308,-7:00,Mountain Time (US & Canada)
+304be95f-f5b1-4cec-87ee-703cfc8b51de,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+3698595d-fe34-4e01-8cd8-d59702db038c,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+5c144f67-cd42-48f8-9aa7-41268d75db9a,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+2d300380-ad56-44c1-a13a-52ba0268f0d1,-3:30,Newfoundland
+5de79864-1ae8-425d-8c88-30838410bb27,-9:00,Alaska
+866eb441-5b09-4254-855d-0b0b9892c554,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+14582580-dda2-4bd6-9411-65ba833329e5,+7:00,"Bangkok, Hanoi, Jakarta"
+2889c320-b98d-4ffc-b9bb-258472fd51d7,-11:00,"Midway Island, Samoa"
+df0474b9-554d-429f-946f-f5c252fb58c3,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+ec2155e7-b3d4-4c20-b2f7-97e6bcd48546,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+c6396ac0-b9f4-41d6-bd68-c1e4089fee5b,-7:00,Mountain Time (US & Canada)
+29784943-92b7-46f9-9454-425c424ccc67,-10:00,Hawaii
+cd04216d-94ad-4b6c-a932-bcbe36748768,+10:00,"Eastern Australia, Guam, Vladivostok"
+5c3da84b-2d1f-4828-b3b6-60aa0519d2bb,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+69b3c077-d41a-4e0c-9c93-fddb9c419a3b,+7:00,"Bangkok, Hanoi, Jakarta"
+423f43f9-9334-4ecf-9071-7ad704ea083a,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+f88b859c-efcd-41e0-ba57-c1179d525b8c,-3:30,Newfoundland
+2f70e2f3-a733-48e9-8bbe-aa74ada0c9ea,-10:00,Hawaii
+a2f26943-61db-4ee7-a6d3-1fd27bfcc491,+7:00,"Bangkok, Hanoi, Jakarta"
+1d8b494c-e5b8-4b64-9619-07e773c9fb24,-3:00,"Brazil, Buenos Aires, Georgetown"
+7fc3be2c-7d4d-4b6a-b314-202b89fb86b6,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+c1b743a5-73d3-4357-916c-1a93a68f366c,+10:00,"Eastern Australia, Guam, Vladivostok"
+42879b85-2b73-4683-9a45-6b3b0699a090,+2:00,"Kaliningrad, South Africa"
+42f43d71-e55b-432e-8985-20d51d804941,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+acb05613-6221-4601-84b6-af4ebb60bc0c,+3:30,Tehran
+b5938c90-6f88-40b3-8c80-e28f79b6f5e2,-1:00,"Azores, Cape Verde Islands"
+93347aab-c94d-47ec-bd19-3507fe0e67c7,-1:00,"Azores, Cape Verde Islands"
+56a3c443-4bd4-4749-8867-06af1462e06a,+2:00,"Kaliningrad, South Africa"
+9eff3de5-4424-4b1d-ad47-87425f8a2ce9,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+870e891f-50cc-48e7-b904-7838712211ca,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+658c5d5c-115d-4a4d-8a90-bf21515cb811,-11:00,"Midway Island, Samoa"
+79dc9446-e416-4a72-9ae0-4429a38e603f,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+00b88ba1-e80c-4e19-831b-8cd9848fbac9,+5:45,Kathmandu
+d7af1999-0d97-423a-86a0-c85f5309e442,-9:00,Alaska
+fcbc92b9-29e6-4122-98f4-da2dd989f803,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+537c1337-d9ef-4219-8223-a3d0eaba98f4,-12:00,"Eniwetok, Kwajalein"
+04b8a43e-af70-4329-b868-d320a2d72017,+4:30,Kabul
+7c53e652-aaf3-4c30-bd3d-c6760dfa2f1b,+4:30,Kabul
+212ef4a6-9bf5-433e-8530-f9bdea92661a,-3:00,"Brazil, Buenos Aires, Georgetown"
+1fa4af3f-10ce-4e32-95c2-8c41fb4f4425,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+d47e4dab-f4c2-4422-9255-57b246f4d7fb,+6:00,"Almaty, Dhaka, Colombo"
+4d72add7-3575-4232-9ba4-614e0e960223,-9:00,Alaska
+5f10c947-48b4-4bd7-a807-0a2ec4e8bbc6,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+1e89f77d-75f2-419d-8317-f539218a20fe,+7:00,"Bangkok, Hanoi, Jakarta"
+85b44f85-67bc-495a-9e39-4381cf7a1506,-6:00,"Central Time (US & Canada), Mexico City"
+1220bf3b-cd5b-4de9-8534-15d85acd2538,-3:30,Newfoundland
+1ff0a2e4-4e12-4b88-9310-293a3b11086a,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+bcf972a0-1f46-40b5-a143-26f8f80881fb,-3:30,Newfoundland
+dcd2c268-fcd1-4484-9b86-32c1d8f14dad,-8:00,Pacific Time (US & Canada)
+a50ca968-5d5d-4a7f-a520-27cdc6d576f1,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+86b52006-f2fe-4794-a0ff-9e2ef70fdef2,+7:00,"Bangkok, Hanoi, Jakarta"
+f83dd059-3dd2-4b02-83ec-31b668eda034,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+fb5a9a50-94d7-48b4-8aaf-6ab2621adb0d,-3:30,Newfoundland
+ad5da21b-b462-4148-9927-163c08822d96,-1:00,"Azores, Cape Verde Islands"
+d12bcb2f-1542-4baa-aa3f-5520d517abee,+3:30,Tehran
+ca9c6c68-eb3b-4381-ae8a-68854351c539,-6:00,"Central Time (US & Canada), Mexico City"
+bb4461fc-3201-41ee-bd98-aad76557737d,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+36ffbe4e-7cae-4fbb-abb1-094163b95aa7,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+a068674a-cb1d-4b8e-a56d-8067fb510d21,-9:00,Alaska
+f2336e36-f6d2-4d58-8bac-7a23f0ed7ab7,-12:00,"Eniwetok, Kwajalein"
+8d61e87e-5ad5-4599-99f7-85f41c1f89a8,+4:30,Kabul
+92102496-de72-46eb-93fe-b89e814298bf,+7:00,"Bangkok, Hanoi, Jakarta"
+031253f3-16c4-48b6-a7b9-c23bedd535c5,-1:00,"Azores, Cape Verde Islands"
+1cfd9dc4-72f8-49f4-a466-99814d137c40,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+9bc9565f-08f1-41f1-a956-d2ea0155b933,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+ea65481e-98ea-4bb4-b978-51ca688c15ba,-1:00,"Azores, Cape Verde Islands"
+55a11e06-f66a-4594-98f8-b1df313b10e6,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+2f965867-bbd7-4e19-b0ef-87869a0fc6bf,-1:00,"Azores, Cape Verde Islands"
+3a26e832-2d49-45e8-9ce1-48c9343ac15b,-8:00,Pacific Time (US & Canada)
+9a09b0f9-b7c2-45b9-876c-b357ab6562a0,-12:00,"Eniwetok, Kwajalein"
+b6af7ae3-3350-4212-9d1b-4b30e93f73f9,-10:00,Hawaii
+67265257-7a55-4c81-a86a-3674b5328695,-12:00,"Eniwetok, Kwajalein"
+f07cd10d-ec8c-4dd8-8d12-2c636e9a093a,-8:00,Pacific Time (US & Canada)
+a753c1af-e2cb-4b99-bc98-b71792572121,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+21c945d5-3b10-4e38-a7d4-364525745624,-3:30,Newfoundland
+b875c3ae-85f0-4880-98da-02c026235ee7,+5:45,Kathmandu
+8a27d527-0dd2-4de0-9693-8fdc28bddd12,+7:00,"Bangkok, Hanoi, Jakarta"
+6367ed41-8456-491e-b8f2-261dcfc7cd04,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+35d1f2dd-de76-43df-ac0f-650779818734,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+d36ed197-9ad3-43f4-a825-445af7b533de,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+7d0a3d05-7c13-4bba-ad1b-087630b707c2,-7:00,Mountain Time (US & Canada)
+d0fd44df-73d6-4bee-ad27-8fee1e0d7e40,-7:00,Mountain Time (US & Canada)
+ba7a37b2-c13d-467f-a4b3-bfd7f06b74dd,-10:00,Hawaii
+e802bc68-c42b-4a39-a117-d524ce9224ff,+2:00,"Kaliningrad, South Africa"
+dd838e8f-b164-4bea-b733-dd25ec5543d6,+11:00,"Magadan, Solomon Islands, New Caledonia"
+8aa4a509-6c12-4a81-ac55-1f1e23923959,-11:00,"Midway Island, Samoa"
+cd97a7aa-1418-4186-8d30-4e35f9755d49,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+35297870-6b66-4d17-8e22-0406e53eed88,+4:30,Kabul
+1556e43b-b89e-43ba-9226-0d2f39e6b4b8,-9:00,Alaska
+3a22f522-d1e3-45e2-8bbb-b2ef8d643850,-7:00,Mountain Time (US & Canada)
+a6a4248b-3275-49e8-ab79-79c79087ad79,+3:30,Tehran
+1586719a-dba4-4f72-99ed-e933a9d4970a,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+b93ef541-9fd5-47b0-9662-46e4d92b5153,-7:00,Mountain Time (US & Canada)
+15d53b05-a00f-4aed-810b-a753527693a2,-6:00,"Central Time (US & Canada), Mexico City"
+dc4eee66-6016-494f-a719-cb64929fa34e,+7:00,"Bangkok, Hanoi, Jakarta"
+9ef02ab7-c27b-4126-b831-74473f0c4d88,-2:00,Mid-Atlantic
+bdb4b4fc-ae40-4117-a3de-c59bfa3eb3ef,-3:00,"Brazil, Buenos Aires, Georgetown"
+a6376eb1-cc75-4ebe-b6d4-22942dd22acc,-11:00,"Midway Island, Samoa"
+0c1b6f6a-d999-4988-866b-d98e2ebbe0cf,-6:00,"Central Time (US & Canada), Mexico City"
+de25f9f3-1716-4a17-9f6e-5f172f012941,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+cfe7333f-d68d-4f1d-895a-b3d7b337837f,+4:30,Kabul
+208921b0-92a3-49ab-9dae-d553b1996d34,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+30290479-f968-4053-b09a-0d49774066f8,-5:00,"Eastern Time (US & Canada), Bogota, Lima"
+fb571cfb-4233-490e-82e6-6c075fb12783,+9:30,"Adelaide, Darwin"
+d3258710-9074-47b9-9bfe-578da91b868a,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+f7303b85-f14c-47aa-9035-ca0eae9e78b0,-2:00,Mid-Atlantic
+dc993a71-6375-4361-8082-ea0c1857676e,+4:30,Kabul
+0d914557-117f-4678-a449-e235bdc1c2b6,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+dbf394c5-5780-4316-b6a4-0cfd2f4b23a6,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+f7dc7ae4-d294-4047-bf30-6760cdf8cdc1,-12:00,"Eniwetok, Kwajalein"
+fc7eb435-ba6c-45f3-84be-dacd721acdcf,-9:00,Alaska
+86f2db18-9a37-4100-8b22-8050a401acd1,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+f95555ee-f0cc-4ec7-8746-f79b8e5d5c20,-6:00,"Central Time (US & Canada), Mexico City"
+51dc454b-bc79-40da-94bb-dd49a362b458,+5:30,"Bombay, Calcutta, Madras, New Delhi"
+597901ab-4bfe-40a9-a502-0c1bb67cf4ec,-10:00,Hawaii
+fc05ff2d-9588-4143-85d1-9fec8e406878,-9:00,Alaska
+f0ba2ea3-ebf1-4fe4-9061-9da463e66075,+3:30,Tehran
+c39e2c7a-4bc7-4880-a236-59948b75af04,+4:30,Kabul
+394c72c9-41c3-4bd6-916b-3ae75669e525,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+5749f5fb-2853-4b4d-899d-52a2cef07893,-8:00,Pacific Time (US & Canada)
+f1c1685d-19cc-42a6-9055-965a54517a05,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+ed70e60f-c278-49a7-9df8-eb7f7fe9a11c,-11:00,"Midway Island, Samoa"
+320b8087-0d88-4e98-972b-b42c4fbf1c03,+5:45,Kathmandu
+74912d61-d42b-49b1-8d34-7233f8a4b0ef,+11:00,"Magadan, Solomon Islands, New Caledonia"
+00232f09-9d2d-4707-a5cd-4c8b2f70d172,+8:00,"Beijing, Perth, Singapore, Hong Kong"
+f58c1886-565f-40fe-93b9-cc3eb8ddf76b,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+56594c90-ddf7-476e-be54-4cc306bc2998,-1:00,"Azores, Cape Verde Islands"
+44169eb1-4acb-4eb2-a956-1c1b3a427499,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+72c6cf80-c0cb-42b8-9381-47e9b58cf108,-11:00,"Midway Island, Samoa"
+f62bca21-af83-43db-9925-0f7023b521f3,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+ee7fba3c-492f-44b4-8a81-8cdb2e6838ba,+7:00,"Bangkok, Hanoi, Jakarta"
+6319ec57-d9e3-46ed-a694-14c88d1be0e2,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+fafb1a50-fbc1-45e4-8568-cf3359ebe354,-11:00,"Midway Island, Samoa"
+8fde5e88-e63c-46af-930d-2e9ffb1142ac,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+cdbc54fc-d7fd-4048-bc46-bc0284270915,+11:00,"Magadan, Solomon Islands, New Caledonia"
+7808e57d-9f5e-42a7-aa8c-bae4639689be,-6:00,"Central Time (US & Canada), Mexico City"
+87d78c30-f773-4699-8eeb-cf735b79510c,+9:30,"Adelaide, Darwin"
+fdcc86d8-8bdc-4100-ab6b-979e247ea900,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+c613580a-0500-4ff9-8f11-1dc9933c3948,+2:00,"Kaliningrad, South Africa"
+93e185f2-bc1e-4e5d-b4ef-6fa957e3e568,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+1eaf184d-6675-4f65-891d-2bcaf87bd412,-9:00,Alaska
+4e2344b8-d06f-43bd-bc12-7d034576595d,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+d34e9ba2-0c98-4464-861d-834ddfe49c3a,+1:00,"Brussels, Copenhagen, Madrid, Paris"
+b122f28b-44f5-490a-977f-a6ff3414babe,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent"
+b9ce28d5-14de-4298-898f-96a89300ea5d,-7:00,Mountain Time (US & Canada)
+c928ba83-12f3-472c-bfef-0e8f997f77f3,0:00,"Western Europe Time, London, Lisbon, Casablanca"
+eb40937a-4399-4bb0-b35c-92317fb7354c,-10:00,Hawaii
+f785ee75-b4c6-4148-912b-369d9141ebcd,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+9e06acea-7bdc-4a9b-b42c-e24b684c9a8e,-7:00,Mountain Time (US & Canada)
+d4279074-685b-4e65-ad93-d100442e5578,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg"
+b4bbb8a2-c8bd-462e-9fab-f93017fb6f90,-3:00,"Brazil, Buenos Aires, Georgetown"
+f84a5197-15f7-474b-99d1-106740cecd71,+11:00,"Magadan, Solomon Islands, New Caledonia"
+8b3bde92-a994-4c56-9e18-c74890d02d5d,+3:30,Tehran
+04966da0-a3a6-44c0-b493-bdf91c965b1a,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi"
+f4e2f525-d2a8-4292-8467-d664e34cad70,-8:00,Pacific Time (US & Canada)
+be583a88-19f3-40a3-92f3-d070559c6896,-4:00,"Atlantic Time (Canada), Caracas, La Paz"
+5111e0cd-6e8f-4f05-87e6-79e38f4250f3,-3:00,"Brazil, Buenos Aires, Georgetown"
+c1df3b4d-9fca-4da4-b30a-cc221f9cd273,+10:00,"Eastern Australia, Guam, Vladivostok"
+6aa47f52-34b1-46b4-8bf7-0c41e7c4df75,+2:00,"Kaliningrad, South Africa"

@@ -12,7 +12,8 @@ def create_db_tables_from_file(file):
 
 
 if __name__ == "__main__":
-    con = sqlite3.connect("branch_etl/resources/database/" + sys.argv[1])
+    con = sqlite3.connect("branch_etl/resources/database/testing_db")
     cur = con.cursor()
     create_db_tables_from_file(sys.argv[2])
+    con.commit()
     con.close()
