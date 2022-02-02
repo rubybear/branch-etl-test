@@ -52,4 +52,13 @@
     - ![](branch_etl/resources/images/branch_dag_tree)
     - ![](branch_etl/resources/images/branch_dag_graph.png)
     - ![](branch_etl/resources/images/branch_dag_code.png)
-- 
+- Testing
+    - If this was a production ETL process I would add tests around data types and double check each column going into
+      the database to be sure they match.
+    - A lot of these tests/checks could be done through an ORM.
+    - Other tests:
+        - Compare record counts between source and destinatino
+        - Checking that records that needed to be casted to a different type are correct. For example that timestamps
+          are truly represented as timestamps
+        - Create a summary of the data and store it to analyze KPIs and raise flags if values vary past a defined
+          threshold
