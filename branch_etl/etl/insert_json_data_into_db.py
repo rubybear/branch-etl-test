@@ -13,8 +13,6 @@ def get_data(url):
     api_endpoint = requests.get(url)
     json_string = api_endpoint.text
     data = json.loads(json_string)['results']
-    with open('../../json_data.json', 'w') as outfile:
-        json.dump(data, outfile)
     return data
 
 
@@ -23,12 +21,13 @@ def insert_values_into_table(cur, table):
     table_values = table[1]
     insert_sql = "INSERT INTO " + table_name + " VALUES(" + ",".join(["?" for i in table_values[0]]) + ")"
     print(insert_sql, len(table_values))
+    [table[0] for table in cur.execute("select name from sqlite_master where type='table'").fetchall()]
     cur.executemany(insert_sql,
                     table_values)
 
 
 if __name__ == '__main__':
-    data = get_data(sys.argv[1])
+    data = get_data("https://randomuser.me/api/?results=500")
 
     name_data = ("name", [get_uuid(data, i) + list(data[i]['name'].values()) for i in range(len(data))])
     dob_data = ("dob", [get_uuid(data, i) + list(data[i]['dob'].values()) for i in range(len(data))])
@@ -52,9 +51,8 @@ if __name__ == '__main__':
 
     tables = [name_data, dob_data, users_data, login_data, registered_data, id_data, location, street, timezone,
               coordinates, picture]
-    print(tables)
 
-    con = sqlite3.connect(sys.argv[2])
+    con = sqlite3.connect("branch_etl/resources/database/testing_db")
     cur = con.cursor()
 
     [insert_values_into_table(cur, table) for table in tables]

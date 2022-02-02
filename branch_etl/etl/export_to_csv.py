@@ -10,10 +10,10 @@ def export_db_table(table_name, path, con):
 
 
 if __name__ == '__main__':
-    con = sqlite3.connect(sys.argv[1])
+    con = sqlite3.connect("branch_etl/resources/database/testing_db")
     cur = con.cursor()
 
-    path = sys.argv[2]
+    path = "branch_etl/export/"
 
     tables = [table[0] for table in cur.execute("select name from sqlite_master where type='table'").fetchall()]
 
