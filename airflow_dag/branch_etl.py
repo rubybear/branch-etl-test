@@ -85,7 +85,8 @@ with DAG(
     def load(**kwargs):
 
         def create_db_tables_from_file():
-            with open("/database_tables.txt") as f:
+            # This needs to be an absolute path in order to work
+            with open("branch_etl/resources/database_tables.txt") as f:
                 lines = f.readlines()
             print(lines)
             [cur.execute(l) for l in lines]
